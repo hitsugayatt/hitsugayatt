@@ -38,7 +38,7 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="mongodb logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="mongodb logo" />
+  <img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" height="30" alt="mongodb logo" />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="mongodb logo" />
   
