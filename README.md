@@ -49,14 +49,14 @@
 <h2 align="center">Connect with me on </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pritish-jadon-025451250/?originalSubdomain=in" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="pritishjadon" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/pritish25/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="pritishjadon" height="30" width="40" /></a>
   &nbsp; &nbsp;
   <a href="mailto:pritishjadon25@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="pritishjadon25@gmail.com" height="30" width="40" /></a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/hitsugayatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitsugayatt" height="30" width="40" /></a> &nbsp; &nbsp;
 <a href="https://www.codechef.com/users/pontus" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://codeforces.com/profile/pontus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://www.leetcode.com/thepontus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepontus" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://codeforces.com/profile/hitsugaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://leetcode.com/u/hitsugaya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepontus" height="30" width="40" /></a> &nbsp; &nbsp;
 </div>
 
 
