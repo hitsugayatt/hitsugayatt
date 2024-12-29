@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecorepontus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitsugayatt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="right" height="150" src="https://64.media.tumblr.com/f0d375bf563052ecc0835bf18c66a8ac/32ea6a988fe13afd-64/s540x810/b764ebdc8a0eb1aa913769918f6440d0d8d93117.gif" width="350" />
 </div>
 
@@ -65,4 +65,4 @@
 
 <br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecorepontus&label=Profile%20views&color=ff0033&style=flat" alt="thecorepontus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitsugayatt&label=Profile%20views&color=ff0033&style=flat" alt="hitsugayatt" /> </p>
