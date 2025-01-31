@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Pritish Jadon and I'm a Full Stack developer, from India. </h2>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF6347&width=500&lines=Hi+%F0%9F%91%8B!+I'm+Pritish+Jadon;A+Full+Stack+Developer+From+India." alt="Typing SVG" />
+</h2>
 
 ###
 
@@ -9,17 +11,9 @@
 
 ###
 
-
-
-###
-
-
 <h2 align="center">Languages and technologies I use </h2>
 
-
 <div align="center">
-  
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -36,12 +30,11 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" /> 
-  <img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" height="30" alt="mongodb logo" />
+  <img src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" height="30" alt="icon logo" />
   <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="mongodb logo" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
 </div>
 
 ###
@@ -54,15 +47,11 @@
   <a href="mailto:pritishjadon25@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="pritishjadon25@gmail.com" height="30" width="40" /></a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/hitsugayatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitsugayatt" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://www.codechef.com/users/hitsugayatt" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://codeforces.com/profile/hitsugaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://leetcode.com/u/hitsugaya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepontus" height="30" width="40" /></a> &nbsp; &nbsp;
+  <a href="https://www.codechef.com/users/hitsugayatt" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
+  <a href="https://codeforces.com/profile/hitsugaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pontus" height="30" width="40" /></a> &nbsp; &nbsp;
+  <a href="https://leetcode.com/u/hitsugaya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thepontus" height="30" width="40" /></a> &nbsp; &nbsp;
 </div>
 
-
-
 ###
-
-<br clear="both">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitsugayatt&label=Profile%20views&color=ff0033&style=flat" alt="hitsugayatt" /> </p>
